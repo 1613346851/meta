@@ -13,12 +13,6 @@
         "language": "zh-cn",
         "region": "Global"
     },
-
-
-
-
-
-
     {
         "name": "繁體中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json",
@@ -33,7 +27,6 @@
     }
 
     
-
     
 ]
 
